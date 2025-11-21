@@ -15,3 +15,24 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: league.league
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+.. automodule:: player.player
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+.. automodule:: team.team
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+.. automodule:: sports_app.sports_app
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
