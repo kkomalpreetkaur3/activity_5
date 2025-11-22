@@ -1,1 +1,7 @@
-Update this license file with licensing details.
+Sports Application License
+
+Created by: Komalpreet Kaur
+
+This software is for educational use only for COMP-2327.
+License files are important because they inform users about 
+software ownership, usage rules, and redistribution rights.

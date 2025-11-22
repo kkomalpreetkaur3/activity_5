@@ -1,1 +1,4 @@
-Update this before file with details user should know before installing.
+Welcome to the Sports Application Setup Wizard.
+
+This installer will install the Sports Application on your computer.
+Please close all applications before continuing.
