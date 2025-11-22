@@ -11,4 +11,6 @@ Komalpreet Kaur
 
 ## Additional Information
 
-[ Use this space to include additional information that may help in your learning. ]
+- Generated HTML documentation using Sphinx with autodoc.
+- Packaged application into an executable using PyInstaller.
+- Created a Windows installer using Inno Setup including license, before, and after text files.
