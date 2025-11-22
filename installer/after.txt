@@ -1,4 +1,8 @@
-Installation Complete!
+Sports Application — Installation Complete
 
-You can launch the Sports Application using the desktop shortcut or Start Menu.
-Thank you for installing.
+Installation is finished. You can launch the Sports Application using the Desktop icon or Start Menu shortcut.
+
+Why this file is important:
+A post-install message confirms successful install and gives the user immediate next steps (where to find the app, documentation, support).
+
+Student Name: Komalpreet Kaur

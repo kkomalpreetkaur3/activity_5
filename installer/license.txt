@@ -1,7 +1,9 @@
-Sports Application License
+License Agreement for Sports Application
 
-Created by: Komalpreet Kaur
+This software is licensed to the end user under the terms described below.
+By installing this software you accept the terms of this license.
 
-This software is for educational use only for COMP-2327.
-License files are important because they inform users about 
-software ownership, usage rules, and redistribution rights.
+Why this file is important:
+License files are important because they let the user know legal terms, usage rights, and responsibilities before they install the software. They protect the developer and inform the user what is allowed.
+
+Student Name: Komalpreet Kaur

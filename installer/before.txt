@@ -1,4 +1,12 @@
-Welcome to the Sports Application Setup Wizard.
+Sports Application — Pre-install Information
 
-This installer will install the Sports Application on your computer.
-Please close all applications before continuing.
+This installer will copy application files and create shortcuts for the Sports Application.
+
+Important:
+Please close other running programs before proceeding.
+If prompted for administrator permission, choose 'Yes' to allow installation.
+
+Why this file is important:
+A pre-install information file prepares the user and reduces errors (e.g., files in use) during installation.
+
+Student Name: Komalpreet Kaur
